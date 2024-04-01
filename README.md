@@ -17,6 +17,10 @@ import { Button } from 'react-native-paper';
 
 npm install react-native-paper
 
+import {NavigationContainer} from '@react-navigation/native';
+
+npm install @react-navigation/native
+
 
 -- Conversor de moedas
 
